@@ -1,0 +1,20 @@
+{
+  "students": [
+    {
+      "id": "654560",
+      "name": "Robert Wilson",
+      "username": "robert",
+      "email": "robert@gmail.com",
+      "group": "Front-end"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "41245",
+      "name": "Andrew Lee",
+      "username": "andrew",
+      "email": "andrewlee@gmail.com",
+      "level": "senior"
+    }
+  ]
+}
