@@ -4,6 +4,7 @@ export type StudentType = {
   username: string;
   email: string;
   group: string;
+  index: number;
 };
 
 export type StudentStoreType = {
