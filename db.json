@@ -8,11 +8,32 @@
       "group": "Front-end"
     },
     {
-      "id": "654560",
-      "name": "Tom Wilson",
-      "username": "robert",
-      "email": "robert@gmail.com",
-      "group": "Front-end"
+      "id": "656295",
+      "name": "Tom Smith",
+      "username": "tomsth",
+      "email": "tom@gmail.com",
+      "group": "Back-end"
+    },
+    {
+      "id": "985629",
+      "name": "Luce Willa",
+      "username": "will",
+      "email": "lucewill@gmail.com",
+      "group": "Design"
+    },
+    {
+      "id": "185632",
+      "name": "David Dkhea",
+      "username": "daivd",
+      "email": "davidkh@gmail.com",
+      "group": "Cyber Security"
+    },
+    {
+      "id": "652847",
+      "name": "Lilly James",
+      "username": "jamelilly",
+      "email": "lilly@gmail.com",
+      "group": "Design"
     }
   ],
   "teachers": [
